@@ -9,7 +9,7 @@
   <NamedLayer>
     <Name>CLC_2006</Name>
     <UserStyle>
-      <Title>CORINE</Title>w
+      <Title>CORINE</Title>
       <Abstract>corine</Abstract>
       <FeatureTypeStyle>
         <Rule>
